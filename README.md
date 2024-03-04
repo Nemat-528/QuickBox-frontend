@@ -1,2 +1,2 @@
 # QuickBox-frontend
-this is the repo for frontend of our application.
+this is the repository for frontend of our application.
